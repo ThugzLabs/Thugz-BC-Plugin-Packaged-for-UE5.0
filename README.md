@@ -22,3 +22,8 @@ Don't forget to put a HelloMoon barear in order to test our plugin:
 
 <img width="1465" alt="image" src="https://github.com/ThugzLabs/Thugz-Solana-for-Unreal-Engine/assets/120092937/4512d7c1-8a8f-48e7-b006-0c661d979c7d">
 
+
+
+For more information, you can see the vidéo inside the repository.
+For any support, join us on discord: https://discord.gg/thugz-life-889994637215932416
+Follow us on X: https://twitter.com/Thugz_NFT and https://twitter.com/War_Thugz
