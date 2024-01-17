@@ -24,6 +24,9 @@ Don't forget to put a HelloMoon barear in order to test our plugin:
 
 
 
-For more information, you can see the vidéo inside the repository.
+For more information, you can see the vidéo inside the repository
+
 For any support, join us on discord: https://discord.gg/thugz-life-889994637215932416
+
 Follow us on X: https://twitter.com/Thugz_NFT and https://twitter.com/War_Thugz
+
