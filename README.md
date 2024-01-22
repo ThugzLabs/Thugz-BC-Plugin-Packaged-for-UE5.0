@@ -2,9 +2,9 @@
  The packaged plugin of the Thugz Labs BC Plugin for Unreal Engine 
 
  To use it:
-- Download the last version of the main branch
-- Dezip the directory inside the "Plugins" directory of your unreal engine project:
-- 
+- Download the last version of the release of your engine version
+- Create a "Plugins" directory inside your project directory and dezip the plugin dowloaded inside the "Plugins" directory :
+
 <img width="623" alt="image" src="https://github.com/ThugzLabs/Thugz-Solana-for-Unreal-Engine/assets/120092937/c09b4d62-b7f3-416b-a54a-b97a73c089d5">
 
 
