@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ThugzBCfor53",
+	"Description": "Interact with the BlockChain in your web 3 games",
+	"Category": "Other",
+	"CreatedBy": "Thugz Labs SAS",
+	"CreatedByURL": "https://www.thugz.life/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ThugzBCfor53",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
